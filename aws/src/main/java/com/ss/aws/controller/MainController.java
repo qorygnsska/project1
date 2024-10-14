@@ -10,7 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 @RestController
 public class MainController {
 
-	// 고정ip : 43.200.23.253
+	// 고정ip : 15.165.145.108
 	
 	@GetMapping("/aws/v1")
 	public String main(
